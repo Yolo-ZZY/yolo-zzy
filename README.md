@@ -6,11 +6,11 @@
     <i class="fa-brands fa-github"></i> GitHub
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.http://129.211.27.198/" target="_blank">
+  <a href="http://129.211.27.198/" target="_blank">
     <i class="fa-brands fa-linkedin-in"></i> LinkedIn
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.bilibili.com/" target="_blank">
+  <a href="[https://www.bilibili.com/](https://space.bilibili.com/356247388)" target="_blank">
     <i class="fa-brands fa-bilibili"></i> Bilibili
   </a>
   &nbsp;&nbsp;
