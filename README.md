@@ -1,5 +1,7 @@
 ## Hi there 👋！！！
 个人博客： </br>
-<i class="fa-brands fa-bilibili">bilibili</i>
+<a href="https://www.bilibili.com" target="_blank">
+  <i class="fa-brands fa-bilibili"></i>
+</a>
 qq：2661572212
 
