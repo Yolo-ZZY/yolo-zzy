@@ -1,21 +1,6 @@
 ## 我的社交网络
 
-<!-- 社交链接开始 -->
-<p align="center">
-  <a href="https://github.com/yolo-zzy" target="_blank">
-    <i class="fa-brands fa-github"></i> GitHub
-  </a>
-  &nbsp;&nbsp;
-  <a href="http://129.211.27.198/" target="_blank">
-    <i class="fa-brands fa-linkedin-in"></i> LinkedIn
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://space.bilibili.com/356247388" target="_blank">
-    <i class="fa-brands fa-bilibili"></i> Bilibili
-  </a>
-  &nbsp;&nbsp;
-  
-</p>
-<!-- 社交链接结束 -->
-
-请注意，要使这些图标显示正确，你需要确保Font Awesome的样式表已加载到你的网页环境中。
+- GitHub: [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat)](https://github.com/yolo-zzy)
+- 个人博客: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](http://129.211.27.198/)
+- Bilibili: [![Bilibili](https://img.shields.io/badge/-Bilibili-orange?logo=bilibili&style=flat)](https://www.bilibili.com/)
+- qq邮箱：2661572212@qq.com
