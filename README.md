@@ -10,7 +10,7 @@
     <i class="fa-brands fa-linkedin-in"></i> LinkedIn
   </a>
   &nbsp;&nbsp;
-  <a href="[https://www.bilibili.com/](https://space.bilibili.com/356247388)" target="_blank">
+  <a href="https://space.bilibili.com/356247388" target="_blank">
     <i class="fa-brands fa-bilibili"></i> Bilibili
   </a>
   &nbsp;&nbsp;
